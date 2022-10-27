@@ -2,6 +2,8 @@
      {
           "id": "1",
           "category": "100",
+          "category_name": "Freelancing skill",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -19,6 +21,8 @@
      {
           "id": "2",
           "category": "100",
+          "category_name": "Freelancing skill",
+          "price" : "32$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -36,6 +40,8 @@
      {
           "id": "3",
           "category": "100",
+          "category_name": "Freelancing skill",
+          "price" : "35$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -53,6 +59,8 @@
      {
           "id": "4",
           "category": "100",
+          "category_name": "Freelancing skill",
+          "price" : "50$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -70,6 +78,8 @@
      {
           "id": "5",
           "category": "200",
+          "category_name": "Learning English",
+          "price" : "23$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -87,6 +97,8 @@
      {
           "id": "6",
           "category": "200",
+          "category_name": "Learning English",
+          "price" : "15$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -104,6 +116,8 @@
      {
           "id": "7",
           "category": "200",
+          "category_name": "Learning English",
+          "price" : "55$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -121,6 +135,8 @@
      {
           "id": "8",
           "category": "300",
+          "category_name": "Microsoft skill",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -138,6 +154,8 @@
      {
           "id": "9",
           "category": "300",
+          "category_name": "Microsoft skill",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -155,6 +173,8 @@
      {
           "id": "10",
           "category": "300",
+          "category_name": "Microsoft skill",
+          "price" : "15$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -172,6 +192,8 @@
      {
           "id": "11",
           "category": "400",
+          "category_name": "Professional skill",
+          "price" : "21$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -189,6 +211,8 @@
      {
           "id": "12",
           "category": "400",
+          "category_name": "Professional skill",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -206,6 +230,8 @@
      {
           "id": "13",
           "category": "400",
+          "category_name": "Professional skill",
+          "price" : "35$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -223,6 +249,8 @@
      {
           "id": "14",
           "category": "500",
+          "category_name": "Admission Test",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
@@ -240,6 +268,8 @@
      {
           "id": "15",
           "category": "500",
+          "category_name": "Admission Test",
+          "price" : "25$",
           "rating": {
                "number": 4.5,
                "badge": "Excellent"
