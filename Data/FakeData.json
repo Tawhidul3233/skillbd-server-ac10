@@ -1,0 +1,257 @@
+[
+     {
+          "id": "1",
+          "category": "100",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 345,
+          "title": "  Web Development ",
+          "Instructor": {
+               "name": "Shakib al hasan",
+               "published_date": "2022-08-21 00:37:24",
+               "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316581.png"
+          },
+          "thumbnail_url": "https://i.imgur.com/t56CukN.jpg",
+          "details": " This course will teach you everything you need to know (and none of what you don't need to know). With more than 80,000 happy students, this Udemy course is trusted by beginners and experts alike. Brad Hussey – an experienced web designer and front-end developer – will teach you everything from web design basics to creating beautiful user interfaces with HTML and CSS. You'll also learn how to develop dynamic websites with JavaScript, PHP, MySQL and more. And that's just the beginning! You'll also learn about creating responsive websites and user interfaces that look great on any device by using popular frameworks like Bootstrap and Tailwind CSS. By the end of this course, you'll have the skills and knowledge you need to start your own successful web design career, whether you want to land a job as a web designer or start taking on clients as a freelance web designer. So if you're ready to become a web designer in 2022? Join the course today! What can you expect from this course? You will go from knowing nothing to creating over 23 impressive designs, websites, and applications — all with step-by-step instruction from one of the most entertaining, engaging and passionate web design educators on the web today! We'll start by learning Visual & Web Design, how to use Adobe Photoshop, and how to sketch professional wireframes. We'll then learn to code with HTML5, CSS3, Javascript and jQuery. At this point, you'll be able to code custom websites, animations and web applications by yourself. Once we're cool with the front-end languages, we'll then melt our brain-bits with highly advanced skills like Responsive Websites, PHP, MySQL, WordPress and custom WordPress plugin development. You'll then have the ability to build responsive, dynamic websites and blogs, basic eCommerce sites and online stores, and have a professional understanding of all aspects of web design & development. After you've learned everything from Design to Development, you'll be taken through a hands-on career section fully-loaded with valuable tips, resources, and real-world guidance to help you start your career — whether you want to work-from-home as a freelancer or secure a full-time studio gig at a design agency. "
+     },
+     {
+          "id": "2",
+          "category": "100",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 697,
+          "title": " Android 12 Developer ",
+          "Instructor": {
+               "name": "Liton das",
+               "published_date": "2022-08-11 00:37:24",
+               "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOpT5sdoYzHsDm8BnFrkd_zsrUyBZ7lX9pz-qv_mxfNCRT5lBQxknzU4ds2lYAg3KqgA&usqp=CAU"
+          },
+          "thumbnail_url": "https://i.ytimg.com/vi/6dmgjyPPc04/maxresdefault.jpg",
+          "details": " So you want to become an Android developer and work from anywhere in the world, or maybe even the same place you're currently at, but with much more interesting and well-paying jobs? Learning Android App development is the way to go. You have a great idea for an app and you just need to learn how to make it happen? Or your friends know that you are tech-savvy and they constantly come to you with their great ideas and want you to build them? Do you have no programming experience whatsoever? Or maybe you have worked with another programming language in the past? Either way - you're in the right place. In this course, you will learn everything you need to know, to build your own apps, no matter what you need them for. For your company, your friends, your own business, or simply for fun. You'll become a real Android App Developer by getting the best Android App development course on skillbd. Don't waste any more time and get right into the action. This course consists of precisely curated content with fun example applications, exercises, presentations, and demos. As our main goal is to make sure, that you become a successful Android developer. We also offer high-quality support, so in case you get stuck, we will be there for you, answering your questions in the Q&A. "
+     },
+     {
+          "id": "3",
+          "category": "100",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 877,
+          "title": " Media Marketing ",
+          "Instructor": {
+               "name": " Ysir Rabbi ",
+               "published_date": "2021-05-26 00:37:24",
+               "img": "https://www.cricfrenzy.com/imagestorages/app/2022-06/cricfrenzy1655907032untitled-20220614212832.webp"
+          },
+          "thumbnail_url": "https://www.socialbeat.in/wp-content/uploads/2020/08/Social-Media-Courses.png",
+          "details":" If you want to be successful with Social Media Marketing you will LOVE this Udemy course! You will learn the principles and strategies that work for us and that we have used to build highly converting ads for over 500+ businesses and clients successfully! Facebook, Twitter, Instagram, Pinterest, Google Ads, YouTube, LinkedIn, TikTok, Snapchat, Tumblr... any marketing via social media, we have you covered with this top-rated course! Stop wasting your money blindly running ads. MASTER paid online marketing once and for all! The optimization of your social media accounts is a REQUIRED skill for ALL marketers and business owners. TAKE ACTION and learn social media marketing on 10+ platforms starting today! You will be able to optimize your ads for increased conversions and engagement, while decreasing costs and PPC/CPM/CPL/CPA. You will be able to create and make use of EVERY  type of SMM ad and social media platforms online marketing strategy we use for our clients! You will be able to grow your page likes, account following, and post engagement. You will be able to find new customers that will  drive your brand and INCOME  to new heights... ALL via social marketing! "
+     },
+     {
+          "id": "4",
+          "category": "100",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 288,
+          "title": "Graphic Design",
+          "Instructor": {
+               "name": "Tamim Iqbal",
+               "published_date": "2020-08-26 00:37:24",
+               "img": "https://e0.365dm.com/21/09/2048x1152/skysports-tamim-iqbal-bangladesh_5497322.jpg"
+          },
+          "thumbnail_url": " https://cdn.eduonix.com/assets/images/header_img/2021120911135613353.jpg ",
+          "details": " Do you want to learn graphic design & advertising from scratch? well, I’ve tried to squeeze my academic studying of advertising in the faculty of applied arts & experience in the design field for more than 15 years in one single graphic design course that would help an absolute beginner or even an advanced graphic designer to become a professional graphic designer. So, Starting with graphic design theories including typography, color theory, graphic design compositions & layout theories to know the science behind achieving great designs. Plus bonus videos where I will be giving you tours in New York design museums like the museum of illusions in New York for example. We will learn Photoshop while we are covering different design niches & categories in the course to make sure you can engage in any graphic design task as a professional graphic designer, so in photoshop we are covering real-world projects & advertising campaigns for big brands & how to do creative thinking & professional graphic visuals, so, for example, we will design for Mercedes Benz, Vodafone, Boeing, and more… and even we are covering social media graphic design campaigns which are crucial nowadays, "
+     },
+     {
+          "id": "5",
+          "category": "200",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 988,
+          "title": "Spoken English ",
+          "Instructor": {
+               "name": " Afif Hossin ",
+               "published_date": "2021-08-26 00:37:24",
+               "img": "https://www.bssnews.net/assets/news_photos/2021/08/31/image-14574-1630413525.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/thumbnails/ghore_boshe_spoken_english_course_thumbnail_by_munzereen_shahid.jpg",
+          "details": " Being able to speak English fluently is an important skill in this age. Having spoken English skills can help you advance in every stage of life. Acquiring English speaking skills or correct pronunciation of English is very important for studies, career, competitive exams, higher education abroad and even traveling abroad. There are many people who know English well, but feel reluctant to speak English due to lack of confidence. Ten Minute School brings you the 'Spoken English at Home' course to help you improve your English speaking skills and at the same time build your English speaking confidence. Munzerin Shaheed from Oxford University will teach you how to speak English confidently in different real life situations. The entire course is taught in Bengali language. Most students who have completed this Spoken English course report that the course language is easy to understand and remember. "
+     },
+     {
+          "id": "6",
+          "category": "200",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 388,
+          "title": "English for Kids",
+          "Instructor": {
+               "name": "Mritunjoy choudurory",
+               "published_date": "2020-08-26 00:37:24",
+               "img": "https://api.bdcrictime.com/272083543_2151173528363763_120127198809279280_n-29_01_2022.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/thumbnails/spoken_english_for_kids_by_ms_16_9.jpg",
+          "details": " All parents want their children to express themselves well in Bengali as well as in English. At present, English language skills are required to present oneself smartly in all institutional, social and family situations. Those who are fluent in English from an early age find it relatively easy to master higher education subjects. Be it classroom or extra-curricular activities, there is no substitute for spoken English. That's why Ten Minute School has Spoken English for Kids course, which will help your child to improve communication skills in English step by step by following special techniques. From the experienced course instructor Munzerin Shaheed, your child will get guidelines for reading, writing, speaking in English and the child will become accustomed to speaking in English. "
+     },
+     {
+          "id": "7",
+          "category": "200",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 921,
+          "title": "English Grammar ",
+          "Instructor": {
+               "name": "Mossidak hossin",
+               "published_date": "2021-08-26 00:37:24",
+               "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319733.png"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/English-Grammar-Crash-Course-Course-Thumbnail.jpg",
+          "details": " More or less all of us have to struggle to remember English grammar according to conventional rules. Ten Minute School brought 'English Grammar Crash Course' to remember grammar rules through very simple techniques and practical examples.A solid grammar foundation from school-college can get good marks in any English exam. Also some universities require minimum marks in English to stand a chance in the entrance exam. Questions from Confusing English Grammar Rules also appear in competitive job tests. So it is very important for students of all levels to be good at English grammar. With the help of our “English Grammar Crash Course” course materials, you can learn grammar rules without memorizing them and apply them in real life. Basic English Grammar such as: Noun, Pronoun, Articles, Right Forms of Verbs, Gerunds, Tense, etc. besides complex subjects such as: Modals, Subjunctives, Inclusives, Redundancies etc. can be learned in an easy way. "
+     },
+     {
+          "id": "8",
+          "category": "300",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 750,
+          "title": "Microsoft Excel",
+          "Instructor": {
+               "name": "Sommuy sarkar",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://i.cdn.newsbytesapp.com/sports/players/profile/soumya-sarkar-1.png"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Microsoft-Excel-Course-Thumbnail.jpg",
+          "details": " Struggling to keep track of thousands of office projects or work? Time-consuming tasks can be done very easily by learning the functions, formulas, tips and tricks of Microsoft Excel in academic or professional life. Currently, every organization's work depends on Microsoft Excel, so once you learn Excel well, you will be ahead in your career. So Ten Minute School has come up with “Microsoft Excel” course to keep you ahead in the job market by teaching you all the details of Microsoft Excel. By doing the “Microsoft Excel” course you can make yourself more productive by learning basic to advanced features. From this course, you can acquire basic formatting, sorting and sorting skills as well as Vlookup, Pivot Table, etc. to organize data and make decisions. So enroll in Ten Minute School's Microsoft Excel course today to make millions of meaningless numbers instantly meaningful, perform calculations in minutes, and learn the ins and outs of Excel. "
+     },
+     {
+          "id": "9",
+          "category": "300",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 970,
+          "title": "Microsoft Word",
+          "Instructor": {
+               "name": "Nasum Ahamed",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://admin.dailycricket.com.bd/storage/posts/9424/Nasumstory1.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/Microsoft-Word-Course-Thumbnail.jpg",
+          "details": " Microsoft Word is our main trust for writing on the computer or creating any document. Microsoft Word is a word processing software. Write a report, jot down information, create assignments, write applications and research papers, create a CV – Microsoft Word is a digital version of a real notebook! Just what? This software used by 90% of people in the world has various features including spelling mistakes, small designs. Although we use this software often, many people do not know about its great features. So Ten Minute School brings you the Microsoft Word course! Not only font big-small or text formatting, for any academic or official work such as writing lab reports and research papers, you can easily do all complex tasks like creating CV using Microsoft Word! "
+     },
+     {
+          "id": "10",
+          "category": "300",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 130,
+          "title": "Microsoft PowerPoint",
+          "Instructor": {
+               "name": "Hasan Mahamud",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/08/20/img_20220820_142811.jpg?itok=2mFtcaYI&timestamp=1660984227"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/ms_powerpoint_update2_thumbnail.jpg",
+          "details": " Slides are used as visual aids in presentations to keep the audience's attention on what the speaker is saying. If the slides are attractive, you can get good marks in the class presentation, as well as impress the boss or business partner in the office presentation. Don't understand how you too can dazzle everyone with a great presentation? If you also want to create attractive and professional presentations by learning 3D Animation-Graphics from the basic tools of Microsoft PowerPoint, then the “Microsoft PowerPoint” course is for you. While studying in schools, colleges and universities, mastering Microsoft PowerPoint will help you stay ahead in assignments, class presentations, and various national and international competitions. Even in corporate life Microsoft PowerPoint is required to impress the boss or the client. "
+     },
+     {
+          "id": "11",
+          "category": "400",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 200,
+          "title": "Negotiation Skills",
+          "Instructor": {
+               "name": "Mostafizur rahaman",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319734.png"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Negotiation-Skill-Course-Thumbnail.jpg",
+          "details": " Your success in various stages of business and personal life largely depends on how you negotiate. Negotiation is the process of reaching an agreement through discussion. More broadly, it is a process in which conflict is resolved through negotiation and a compromise is reached. Your success in various stages of business and personal life largely depends on how you negotiate. Negotiation is the process of reaching an agreement through discussion. More broadly, it is a process in which conflict is resolved through negotiation and a compromise is reached. Your success in various stages of business and personal life largely depends on how you negotiate. Negotiation is the process of reaching an agreement through discussion. More broadly, it is a process in which conflict is resolved through negotiation and a compromise is reached. "
+     },
+     {
+          "id": "12",
+          "category": "400",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 400,
+          "title": "FMCG Management",
+          "Instructor": {
+               "name": "Ebadat hossin",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://api.bdcrictime.com/ebadot--21_04_2022.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/FMCG-Retail-Management-Course-Thumbnail.jpg",
+          "details": " Do you want to build your career in the retail sector? Want to take your skills a step further and reach the pinnacle of success as a retail manager? Or do you want to maximize profits while minimizing costs in your business? If your answer is “Yes”, Ten Minute School's Effective FMCG Retail Management course is for you! Do you want to build your career in the retail sector? Want to take your skills a step further and reach the pinnacle of success as a retail manager? Or do you want to maximize profits while minimizing costs in your business? If your answer is “Yes”, Ten Minute School's Effective FMCG Retail Management course is for you! Do you want to build your career in the retail sector? Want to take your skills a step further and reach the pinnacle of success as a retail manager? Or do you want to maximize profits while minimizing costs in your business? If your answer is “Yes”, Ten Minute School's Effective FMCG Retail Management course is for you! "
+     },
+     {
+          "id": "13",
+          "category": "400",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 600,
+          "title": "Career Guidance",
+          "Instructor": {
+               "name": "Soriful islam",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323175.png"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Career-Guidance--Course-Thumbnail.jpg",
+          "details": " Are you struggling to choose a career when you are on the verge of starting a career? Confused about whether to follow a passion or try to get a traditional job? Ever feel like you would have done better with some expert tips before starting your career? If the answer to any of these questions is “yes”, then this course is for you. Are you struggling to choose a career when you are on the verge of starting a career? Confused about whether to follow a passion or try to get a traditional job? Ever feel like you would have done better with some expert tips before starting your career? If the answer to any of these questions is “yes”, then this course is for you. Are you struggling to choose a career when you are on the verge of starting a career? Confused about whether to follow a passion or try to get a traditional job? Ever feel like you would have done better with some expert tips before starting your career? If the answer to any of these questions is “yes”, then this course is for you. "
+     },
+     {
+          "id": "14",
+          "category": "500",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 430,
+          "title": "ইঞ্জিনিয়ারিং এডমিশন ",
+          "Instructor": {
+               "name": "Nasmul santo",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://admin.dailycricket.com.bd/storage/posts/8257/Shanto.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/images/k-12-courses/thumbnail/adm_22_engr.jpg",
+          "details": " GPA Eligibility Requirement must be met to take the exam everywhere including Butex. Then you can understand how tough and competitive engineering admission is. But to present this difficult preparation in a simple and organized manner and to ensure the chances of getting a chance, we have brought “Engineering Admission Course-2022” from Ten Minute School. GPA Eligibility Requirement must be met to take the exam everywhere including Butex. Then you can understand how tough and competitive engineering admission is. But to present this difficult preparation in a simple and organized manner and to ensure the chances of getting a chance, we have brought “Engineering Admission Course-2022” from Ten Minute School. GPA Eligibility Requirement must be met to take the exam everywhere including Butex. Then you can understand how tough and competitive engineering admission is. But to present this difficult preparation in a simple and organized manner and to ensure the chances of getting a chance, we have brought “Engineering Admission Course-2022” from Ten Minute School. "
+     },
+     {
+          "id": "15",
+          "category": "500",
+          "rating": {
+               "number": 4.5,
+               "badge": "Excellent"
+          },
+          "student": 560,
+          "title": "মেডিকেল এডমিশন ",
+          "Instructor": {
+               "name": "Taskin hamed",
+               "published_date": "2022-08-26 00:37:24",
+               "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg"
+          },
+          "thumbnail_url": "https://cdn.10minuteschool.com/images/thumbnails/medical_question_solve.jpg",
+          "details": " A student can start preparation for admission right now regardless of class 11th/12th but for that he needs to have a proper idea about the questions. A medical candidate must solve the question bank. But one thing is sad but true, most of the students of our country do not know when and how to solve the question bank. A student can start preparation for admission right now regardless of class 11th/12th but for that he needs to have a proper idea about the questions. A medical candidate must solve the question bank. But one thing is sad but true, most of the students of our country do not know when and how to solve the question bank. A student can start preparation for admission right now regardless of class 11th/12th but for that he needs to have a proper idea about the questions. A medical candidate must solve the question bank. But one thing is sad but true, most of the students of our country do not know when and how to solve the question bank. "
+     }
+]
