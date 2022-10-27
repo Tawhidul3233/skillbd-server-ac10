@@ -13,6 +13,17 @@ app.get('/', (req , res)=>{
 })
 
 
+app.get('/courses/:id', (req, res)=>{
+     const id = req.params.id
+     const course = courses.find(c => c.id === id)
+     res.send(course)
+});
+
+app.get('/cetagories/:id', (req, res)=> {
+     const id = req.params.id
+     const category = courses.filter(c => c.category_id === id)
+     res.send(category)
+})
 
 
 app.listen(port, () => {
